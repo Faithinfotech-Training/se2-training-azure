@@ -8,7 +8,7 @@ public class SpringBootCrudDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootCrudDemoApplication.class, args);
-		System.out.println("Welcome to Spring Boot CRUD--Demo-AZURE");
+		System.out.println("Welcome to Spring Boot CRUD--Demo-AZURE TEST");
 	}
 
 }
